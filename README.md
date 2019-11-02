@@ -6,3 +6,5 @@ He liked my initiative and then we began working on this project together. He he
 with defining the elements of an array with pairwise indices. However, he left the coding aspect of it entirely up to me. It didn't take long for me to get this concept down in code. I then designed a presentation, which was given as a lecture to my algorithms class, and submitted my work as a research abstract for CCSNE Poster Conference 2019. The abstract was selected for presentation!
 And me and another classmate had a great time attending the conference. Unfortunately my project was not selected for a prize, but
 I valued the time I spent researching and coding this particular concept.
+
+This repository includes the original code, the code I ran to do a statistical analysis comparing to selection sort. As well as some notes regarding the time complexity as it compares to traditional selection sort. 
